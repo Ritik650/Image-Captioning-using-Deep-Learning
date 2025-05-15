@@ -13,7 +13,6 @@ This project implements an **Image Captioning system** using deep learning techn
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
